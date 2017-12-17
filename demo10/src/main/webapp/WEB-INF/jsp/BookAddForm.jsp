@@ -12,7 +12,7 @@
 <div id="global">
 <c:url var="formAction" value="/save-book" />
 <form:form commandName="book" action="${formAction}" method="post">
-<%-- <form:form commandName="book" action="/save-book" method="post"> --%>
+<%-- <form:form commandName="book" action="save-book" method="post"> --%>
 <%-- cannot use the follow, the best practice is using <c:url/> --%>
 <%-- <form:form commandName="book" action="/save-book" method="post"> --%>
 	<fieldset>
