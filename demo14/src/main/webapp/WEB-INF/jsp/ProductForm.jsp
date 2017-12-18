@@ -17,9 +17,9 @@
 <%-- <form:form commandName="book" action="/save-book" method="post"> --%>
 	<fieldset>
 		<legend>Add a Product</legend>
-		<p class="errorLine">
-			<form:errors path="*" cssClass="error" />
-		</p>
+<!-- 		<p class="errorLine"> -->
+<%-- 			<form:errors path="*" cssClass="error" /> --%>
+<!-- 		</p> -->
 		<p class="errorLine">
 			<form:errors path="name" cssClass="error" />
 		</p>
