@@ -29,6 +29,7 @@
 		<module>demo13</module>
 		<module>demo14</module>
 		<module>demo15</module>
+		<module>demo16</module>
     </modules>
 	
 	<build>
